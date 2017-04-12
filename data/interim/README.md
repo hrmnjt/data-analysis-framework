@@ -1,1 +1,1 @@
-<!-- This folder contains the interim datafiles created in data manipulation steps -->
+**Folder Info:** This folder contains the interim datafiles created in data manipulation steps
