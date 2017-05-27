@@ -3,15 +3,15 @@
 ---
 
 ## What is this?
-This light-weight folder structure is a good starting point for data-analysis projects 
-that helps maintain consistency and code-quality.
-This structure served inspired from 
+A light-weight folder structure serving as starting point for data-analysis projects 
+to helps maintain consistency and code-quality.
+This structure inspired from 
 [Cookiecutter Data Science](http://drivendata.github.io/cookiecutter-data-science/) project while
 personalizing a few things here and there.
 
 ## What this is not?
  * Ideal - this is highly personalised for my use. Please feel free to fork and alter as per your need
- * Finalized - since I'm evolving as I learn stuff, this structure is doing the same.
+ * Finalized - since I'm evolving as I learn stuff, this repo is too!
 
 
 ## Details of what's inside!
