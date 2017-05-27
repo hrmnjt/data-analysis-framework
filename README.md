@@ -18,16 +18,16 @@ personalizing a few things here and there.
 
 ### Folder Tree: 
 ```
-+-- data - datasets used in project
-|   +-- external - 3rd party data sources that are imported for specific purpose in the project
-|   +-- processed - finalized data sources that are used in analysis
-|   +-- raw - immutated raw data sources required for the analysis
-+-- docs - documentation with structure for project
-+-- references - data dictionaries, manuals and reference documentation
-+-- src - source files for project
-|   +-- scripts - finalized scripts (new)
-|   +-- archive - old scripts scripts (deprecated)
-|   +-- work - working/raw scripts (WIP)
++-- data                        # datasets used in project
+|   +-- external                # 3rd party data sources that are imported for specific purpose in the project
+|   +-- processed               # finalized data sources that are used in analysis
+|   +-- raw                     # immutated raw data sources required for the analysis
++-- docs                        # documentation with structure for project
++-- references                  # data dictionaries, manuals and reference documentation
++-- src                         # source files for project
+|   +-- scripts                 # finalized scripts (new)
+|   +-- archive                 # old versions (archives)
+|   +-- work                    # working/raw scripts (WIP)
 +-- requirements.txt
 +-- LICENCE
 ```
