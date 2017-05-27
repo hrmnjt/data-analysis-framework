@@ -1,1 +1,0 @@
-**Folder Info:** This folder contains the 3rd party data used in the project

@@ -1,1 +1,0 @@
-**Folder Info:** This folder contains old version of scripts used in the project
