@@ -1,3 +1,4 @@
 # Adding the .idea files to gitignore
 .idea
-
+# Adding the .vscode files to gitignore
+.vscode
