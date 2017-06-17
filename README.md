@@ -1,9 +1,7 @@
 # Data Analysis Boilerplate
 
----
-
 ## What is this?
-A light-weight folder structure serving as starting point for data-analysis projects 
+A light-weight folder structure serving as starting point for data-analysis projects in python
 to helps maintain consistency and code-quality.
 This structure inspired from 
 [Cookiecutter Data Science](http://drivendata.github.io/cookiecutter-data-science/) project while
